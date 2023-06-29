@@ -36,7 +36,7 @@
     "redux-thunk": "^2.3.0",
     "redux-undo": "^1.0.0",
     "reselect": "^3.0.0",
-    "semver": "^7.3.2",
+    "semver": "^7.5.2",
     "uuid": "^3.0.1"
   },
   "publishConfig": {
